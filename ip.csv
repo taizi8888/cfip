@@ -23,14 +23,26 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 152.70.59.90,8443,true,AMS,Europe,Amsterdam,241 ms,1244 kB/s
 8.211.2.2,8443,true,FRA,Europe,Frankfurt,273 ms,1155 kB/s
 141.147.92.143,8443,true,LHR,Europe,London,226 ms,1136 kB/s
-143.47.243.144,8443,true,LHR,Europe,London,221 ms,102 kB/s
-193.123.61.142,8443,true,AMS,Europe,Amsterdam,226 ms,83 kB/s
-141.147.61.116,8443,true,FRA,Europe,Frankfurt,247 ms,61 kB/s
-47.243.169.90,8443,true,HKG,Asia Pacific,Hong Kong,36 ms,45 kB/s
-47.243.198.198,8443,true,HKG,Asia Pacific,Hong Kong,42 ms,44 kB/s
-47.243.120.239,8443,true,HKG,Asia Pacific,Hong Kong,38 ms,41 kB/s
-150.230.20.156,8443,true,AMS,Europe,Amsterdam,227 ms,19 kB/s
-132.226.163.224,8443,true,GRU,South America,São Paulo,415 ms,13 kB/s
-8.222.145.43,8443,true,SIN,Asia Pacific,Singapore,273 ms,7 kB/s
-8.222.156.242,8443,true,SIN,Asia Pacific,Singapore,252 ms,0 kB/s
-132.145.54.84,8443,true,LHR,Europe,London,227 ms,0 kB/s
+150.230.34.116	443	TRUE	SJC	North America	San Jose	129 ms	11703 kB/s
+140.238.65.48	443	TRUE	LHR	Europe	London	217 ms	7196 kB/s
+138.3.252.214	443	TRUE	FRA	Europe	Frankfurt	233 ms	7149 kB/s
+193.122.49.255	443	TRUE	FRA	Europe	Frankfurt	255 ms	6785 kB/s
+138.3.254.39	443	TRUE	FRA	Europe	Frankfurt	225 ms	6116 kB/s
+130.61.87.219	443	TRUE	FRA	Europe	Frankfurt	243 ms	6060 kB/s
+150.230.21.48	443	TRUE	FRA	Europe	Frankfurt	241 ms	5866 kB/s
+8.211.60.232	443	TRUE	FRA	Europe	Frankfurt	236 ms	5811 kB/s
+132.226.128.217	443	TRUE	FRA	Europe	Frankfurt	261 ms	5731 kB/s
+8.209.124.214	443	TRUE	FRA	Europe	Frankfurt	259 ms	5593 kB/s
+130.61.190.205	443	TRUE	FRA	Europe	Frankfurt	222 ms	5586 kB/s
+138.2.168.210	443	TRUE	FRA	Europe	Frankfurt	231 ms	5547 kB/s
+130.61.83.37	443	TRUE	FRA	Europe	Frankfurt	220 ms	5384 kB/s
+130.162.161.141	443	TRUE	FRA	Europe	Frankfurt	286 ms	5308 kB/s
+143.47.182.223	443	TRUE	FRA	Europe	Frankfurt	221 ms	5249 kB/s
+155.248.196.123	443	TRUE	YVR	North America	Vancouver	149 ms	5140 kB/s
+168.138.71.220	443	TRUE	YYZ	North America	Toronto	212 ms	4502 kB/s
+132.145.82.137	443	TRUE	ICN	Asia Pacific	Seoul	88 ms	4394 kB/s
+152.70.48.51	443	TRUE	FRA	Europe	Frankfurt	255 ms	4230 kB/s
+47.242.94.48	443	TRUE	HKG	Asia Pacific	Hong Kong	37 ms	4120 kB/s
+141.147.102.212	443	TRUE	FRA	Europe	Frankfurt	246 ms	4111 kB/s
+155.248.202.141	443	TRUE	SJC	North America	San Jose	142 ms	4100 kB/s
+47.88.85.197	443	TRUE	SJC	North America	San Jose	142 ms	4022 kB/s
