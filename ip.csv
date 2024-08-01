@@ -1,56 +1,40 @@
-IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
-140.238.12.52,8443,true,NRT,Asia Pacific,Tokyo,78 ms,22563 kB/s
-47.242.54.157,8443,true,HKG,Asia Pacific,Hong Kong,46 ms,21917 kB/s
-47.242.107.109,8443,true,HKG,Asia Pacific,Hong Kong,34 ms,15991 kB/s
-47.243.60.150,8443,true,HKG,Asia Pacific,Hong Kong,37 ms,12577 kB/s
-47.242.174.27,8443,true,HKG,Asia Pacific,Hong Kong,34 ms,12554 kB/s
-47.243.107.148,8443,true,HKG,Asia Pacific,Hong Kong,35 ms,12446 kB/s
-47.243.203.119,8443,true,HKG,Asia Pacific,Hong Kong,35 ms,11628 kB/s
-47.242.125.241,8443,true,HKG,Asia Pacific,Hong Kong,35 ms,11437 kB/s
-8.210.207.214,8443,true,HKG,Asia Pacific,Hong Kong,40 ms,10477 kB/s
-47.242.42.153,8443,true,HKG,Asia Pacific,Hong Kong,38 ms,9818 kB/s
-47.243.183.127,8443,true,HKG,Asia Pacific,Hong Kong,39 ms,8772 kB/s
-47.242.7.162,8443,true,HKG,Asia Pacific,Hong Kong,38 ms,7914 kB/s
-152.70.123.225,8443,true,SJC,North America,San Jose,192 ms,7688 kB/s
-8.217.159.210,8443,true,HKG,Asia Pacific,Hong Kong,35 ms,6399 kB/s
-47.243.234.9,8443,true,HKG,Asia Pacific,Hong Kong,39 ms,5359 kB/s
-47.242.59.216,8443,true,HKG,Asia Pacific,Hong Kong,39 ms,4328 kB/s
-47.89.149.186,8443,true,IAD,North America,Ashburn,198 ms,3388 kB/s
-141.145.205.115,8443,true,CDG,Europe,Paris,220 ms,3291 kB/s
-47.243.90.180,8443,true,HKG,Asia Pacific,Hong Kong,37 ms,3242 kB/s
-47.253.130.14,8443,true,IAD,North America,Ashburn,215 ms,2950 kB/s
-130.61.107.238,8443,true,FRA,Europe,Frankfurt,220 ms,2411 kB/s
-152.70.59.90,8443,true,AMS,Europe,Amsterdam,241 ms,1244 kB/s
-8.211.2.2,8443,true,FRA,Europe,Frankfurt,273 ms,1155 kB/s
-141.147.92.143,8443,true,LHR,Europe,London,226 ms,1136 kB/s
-150.230.34.116,443,true,SJC,North America,San Jose,129 ms,11703 kB/s
-140.238.65.48,443,true,LHR,Europe,London,217 ms,7196 kB/s
-138.3.252.214,443,true,FRA,Europe,Frankfurt,233 ms,7149 kB/s
-193.122.49.255,443,true,FRA,Europe,Frankfurt,255 ms,6785 kB/s
-138.3.254.39,443,true,FRA,Europe,Frankfurt,225 ms,6116 kB/s
-130.61.87.219,443,true,FRA,Europe,Frankfurt,243 ms,6060 kB/s
-150.230.21.48,443,true,FRA,Europe,Frankfurt,241 ms,5866 kB/s
-8.211.60.232,443,true,FRA,Europe,Frankfurt,236 ms,5811 kB/s
-132.226.128.217,443,true,FRA,Europe,Frankfurt,261 ms,5731 kB/s
-8.209.124.214,443,true,FRA,Europe,Frankfurt,259 ms,5593 kB/s
-130.61.190.205,443,true,FRA,Europe,Frankfurt,222 ms,5586 kB/s
-138.2.168.210,443,true,FRA,Europe,Frankfurt,231 ms,5547 kB/s
-130.61.83.37,443,true,FRA,Europe,Frankfurt,220 ms,5384 kB/s
-130.162.161.141,443,true,FRA,Europe,Frankfurt,286 ms,5308 kB/s
-143.47.182.223,443,true,FRA,Europe,Frankfurt,221 ms,5249 kB/s
-155.248.196.123,443,true,YVR,North America,Vancouver,149 ms,5140 kB/s
-168.138.71.220,443,true,YYZ,North America,Toronto,212 ms,4502 kB/s
-132.145.82.137,443,true,ICN,Asia Pacific,Seoul,88 ms,4394 kB/s
-152.70.48.51,443,true,FRA,Europe,Frankfurt,255 ms,4230 kB/s
-47.242.94.48,443,true,HKG,Asia Pacific,Hong Kong,37 ms,4120 kB/s
-141.147.102.212,443,true,FRA,Europe,Frankfurt,246 ms,4111 kB/s
-155.248.202.141,443,true,SJC,North America,San Jose,142 ms,4100 kB/s
-47.88.85.197,443,true,SJC,North America,San Jose,142 ms,4022 kB/s
-193.123.35.138,443,true,FRA,Europe,Frankfurt,220 ms,3987 kB/s
-141.147.93.7,443,true,FRA,Europe,Frankfurt,261 ms,3958 kB/s
-152.70.234.188,443,true,NRT,Asia Pacific,Tokyo,74 ms,3624 kB/s
-130.162.184.173,443,true,LHR,Europe,London,244 ms,3394 kB/s
-141.148.247.100,443,true,FRA,Europe,Frankfurt,240 ms,3332 kB/s
-143.47.181.239,443,true,FRA,Europe,Frankfurt,257 ms,2643 kB/s
-152.70.248.96,443,true,ICN,Asia Pacific,Seoul,71 ms,1929 kB/s
-140.238.158.238,443,true,YYZ,North America,Toronto,208 ms,1060 kB/s
+IP 地址	端口	TLS	已接收	平均延迟	下载速度 (MB/s)
+8.217.232.246	2053	TRUE	1	37.83	28.02
+8.218.201.73	2053	TRUE	2	39.44	27.90
+47.242.7.162	2053	TRUE	3	35.44	27.72
+8.218.243.95	2053	TRUE	4	40.49	27.70
+8.218.155.238	2053	TRUE	5	36.97	27.53
+47.242.59.216	2053	TRUE	6	38.66	26.77
+8.210.156.6	2053	TRUE	7	38.31	26.49
+8.210.3.24	2053	TRUE	8	37.49	26.46
+8.210.65.1	2053	TRUE	9	35.63	26.40
+47.243.169.63	2053	TRUE	10	37.43	26.35
+47.242.54.157	2053	TRUE	11	36.58	25.93
+8.210.39.96	2053	TRUE	12	43.99	25.79
+47.243.183.127	2053	TRUE	13	35.72	25.77
+47.242.232.14	2053	TRUE	14	40.09	25.06
+47.242.42.153	2053	TRUE	15	34.85	24.55
+47.242.202.230	2053	TRUE	16	34.47	24.22
+8.218.48.92	2053	TRUE	17	38.21	24.19
+8.217.159.210	2053	TRUE	18	36.35	23.23
+8.210.21.65	2053	TRUE	19	36.08	23.12
+8.217.250.222	2053	TRUE	20	35.54	22.85
+8.218.122.55	2053	TRUE	21	40.42	22.57
+8.210.175.109	2053	TRUE	22	37.23	20.99
+8.218.8.142	2053	TRUE	23	35.47	17.49
+47.243.60.150	2053	TRUE	24	36.47	15.25
+47.242.174.27	2053	TRUE	25	35.10	8.56
+47.243.173.187	2053	TRUE	26	41.79	7.81
+47.242.234.127	2053	TRUE	27	37.00	7.15
+146.56.166.32	2053	TRUE	4	49.55	6.39
+8.217.66.3	2053	TRUE	4	42.58	3.97
+47.242.107.109	2053	TRUE	4	36.90	3.60
+47.243.74.220	2053	TRUE	4	39.37	2.81
+8.210.207.214	2053	TRUE	4	39.53	1.85
+8.217.72.0	2053	TRUE	4	34.78	1.47
+193.122.125.174	2053	TRUE	4	60.80	0.47
+8.218.143.10	2053	TRUE	4	35.50	0.01
+47.243.169.90	2053	TRUE	4	37.89	0.00
+47.243.120.239	2053	TRUE	4	36.81	0.00
+8.210.126.88	2053	TRUE	4	35.64	0.00
+47.243.198.198	2053	TRUE	4	37.16	0.00
