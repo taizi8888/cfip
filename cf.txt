@@ -1,4 +1,4 @@
 d2.shdetai.cn:443#店优选2
-d3.shdetai.cn:443#店优选3
+d3.shdetai.cn:8443#店优选3
 j2.shdetai.cn:443#家优选2
-j3.shdetai.cn:443#家优选3
+j3.shdetai.cn:8443#家优选3
