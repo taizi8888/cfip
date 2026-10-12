@@ -3,8 +3,8 @@ d3.shdetai.cn:8443#D优选3
 d4.shdetai.cn:2053#D优选4
 d5.shdetai.cn:2083#D优选5
 d6.shdetai.cn:2087#D优选6
-j2.shdetai.cn:443#j优选2
-j3.shdetai.cn:8443#j优选3
-j4.shdetai.cn:2053#j优选4
-j5.shdetai.cn:2083#j优选5
-j6.shdetai.cn:2087#j优选6
+#j2.shdetai.cn:443#j优选2
+#j3.shdetai.cn:8443#j优选3
+#j4.shdetai.cn:2053#j优选4
+#j5.shdetai.cn:2083#j优选5
+#j6.shdetai.cn:2087#j优选6
